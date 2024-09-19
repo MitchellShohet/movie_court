@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\mcsho\Desktop\coding_dojo\projects_and_algos\projects\movie_court\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2751220985.index
+1861235007.index
+3123589606.index
+3270434721.index
+2933770234.index
+3951878964.index

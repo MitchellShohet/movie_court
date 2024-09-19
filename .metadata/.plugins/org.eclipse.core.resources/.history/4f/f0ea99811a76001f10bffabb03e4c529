@@ -1,0 +1,5 @@
+package com.mitchellshohet.moviecourt.repositories;
+
+public interface commentRepository {
+
+}
